@@ -26,3 +26,5 @@ else if (media < 5) {
     alert(`Sua nota final é ${media}! Você reprovou!`);
 
 }
+
+//teste para contribuir  by-thiie

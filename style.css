@@ -1,0 +1,17 @@
+.nota {
+    background-color: bisque;
+    width: 43.5px;
+    font-size: 13px;
+    margin-bottom: 5px;
+    display: flex;
+    flex-direction: column;
+    height: 4.2vh
+}
+
+form {
+    position: absolute;
+    border-style: solid;
+    display: flex;
+    width: 377px;
+    height: 5vh;
+}

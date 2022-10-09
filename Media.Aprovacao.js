@@ -20,7 +20,7 @@ else if (media >= 5 || media < 7) {
 
 }
 
-//se for menorque 5, aluno reprovado
+//se for menor que 5, aluno reprovado
 else if (media < 5) {
 
     alert(`Sua nota final é ${media}! Você reprovou!`);
